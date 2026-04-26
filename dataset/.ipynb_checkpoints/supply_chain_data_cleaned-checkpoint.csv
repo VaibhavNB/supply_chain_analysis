@@ -1,4 +1,4 @@
-order_id,product,city,supplier,price,quantity,order_date,delivery_date,warehouse,transport_cost,discount,customer_rating,returned,payment_method,delivery_status,notes
+order_id,product,city,supplier,price_cleaned,quantity,order_date_clean,delivery_date_clean,warehouse,transport_cost,discount,customer_rating,returned,payment_method,delivery_status,notes
 ORD1000,Monitor,Bangalore,Supplier B,5132.0,11,2023-12-25,2023-05-05,WH2,300.0,0.0,,No,Upi,Delivered,No Notes
 ORD1001,Keyboard,Hyderabad,Supplier B,32683.0,2,2023-06-10,2023-12-22,Unknown,200.0,10.0,,Yes,Upi,Cancelled,late delivery
 ORD1002,Tablet,Hyderabad,Supplier B,1844.0,1,2023-03-06,2023-06-27,WH1,100.0,10.0,1.0,Yes,Unknown,Pending,urgent
